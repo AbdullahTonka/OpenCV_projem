@@ -1,0 +1,10 @@
+Bilgisayarınıza bağlı bir webcam bulunmalıdır.
+
+kütüphanelerin hepsi bilgisayarınızda bulunmalıdır.
+
+Kütüphaneler:
+              time
+              cv2
+              keyboard
+              mediapipe
+              pyautogui
